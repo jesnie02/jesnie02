@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hej 👋, i am Jesper (jesnie02)</h1> <p align="right"> <img src="https://komarev.com/ghpvc/?username=jesnie02&label=Profile%20views&color=0e75b6&style=flat" alt="jesnie02" /> </p>
-<h3 align="center">I am a passionate Computer Science student currently in my 3rd semester. I love exploring new technologies, solving problems, and building solutions that make a difference. Always eager to learn and collaborate on exciting projects! Feel free to tweak it as you like!</h3>
+<h3 align="center">I am a passionate Computer Science student currently in my 4rd semester. I love exploring new technologies, solving problems, and building solutions that make a difference. Always eager to learn and collaborate on exciting projects! Feel free to tweak it as you like!</h3>
 
 
 <div align="center" style="margin-top: 4px;">
