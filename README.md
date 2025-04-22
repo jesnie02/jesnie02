@@ -14,7 +14,7 @@
 </div>
 <div align="center" style="margin-top: 4px;">
     <span>
-        🌱 I’m currently learning <strong>C#, Typescript, .NET API, and React</strong><br />
+        🌱 I’m currently learning <strong>C#, Typescript, .NET API, Websocket and React</strong><br />
         📫 How to reach me: <strong>jesnie02@easv365.dk</strong>
     </span>
 </div>
