@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hej 👋, i am Jesper (jesnie02)</h1> <p align="right"> <img src="https://komarev.com/ghpvc/?username=jesnie02&label=Profile%20views&color=0e75b6&style=flat" alt="jesnie02" /> </p>
-<h3 align="center">I am a passionate Computer Science student currently in my 4rd semester. I love exploring new technologies, solving problems, and building solutions that make a difference. Always eager to learn and collaborate on exciting projects! Feel free to tweak it as you like!</h3>
+<h3 align="center">I am a passionate Computer Science student currently in my 5rd semester. I love exploring new technologies, solving problems, and building solutions that make a difference. Always eager to learn and collaborate on exciting projects! Feel free to tweak it as you like!</h3>
 
 
 <div align="center" style="margin-top: 4px;">
@@ -13,10 +13,10 @@
     </a>
 </div>
 <div align="center" style="margin-top: 4px;">
-    <span>
-        🌱 I’m currently learning <strong>C#, Typescript, .NET API, Websocket and React</strong><br />
-        📫 How to reach me: <strong>jesnie02@easv365.dk</strong>
-    </span>
+   <span>
+    🌱 I'm currently working on a project during my internship at Trifork in Esbjerg.<br />
+    📫 How to reach me: <strong>jesnie02@easv365.dk</strong>
+   </span>
 </div>
 
 
