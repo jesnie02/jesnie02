@@ -47,7 +47,7 @@ technical_background:
     "React"
   ]
   
-currently_learning: ["Elixir", "Functional Programming", "Microservices"]
+currently_learning: ["Elixir", "Software Quality", "Machine Learning", "Secure Software Develoment", ]
 2026 Goals: ["Complete Professional Bachelor degree", "Build portfolio projects"]
 hobbies: ["Linux customization", "Travel", "Community involvement", "Cooking"]
 </code>
