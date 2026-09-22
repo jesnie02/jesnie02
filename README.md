@@ -47,7 +47,10 @@ technical_background:
     "Database Design & Optimization",
     "Microservices Architecture",
     "Scrum",
-    "React"
+    "React",
+    "Machine Learning",
+    "Secure Software Development",
+    "Elixir"
   ]
   
 currently_learning: ["Elixir", "Software Quality", "Machine Learning", "Secure Software Develoment", ]
