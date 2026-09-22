@@ -10,6 +10,9 @@
     <a href="https://www.linkedin.com/in/jesper-antonisen-nielsen/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
+    <a href="https://jesper-a-nielsen.me/" target="_blank">
+        <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+    </a>
 </p>
 
 <hr>
