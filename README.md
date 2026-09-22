@@ -11,7 +11,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://jesper-a-nielsen.me/" target="_blank">
-        <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+        <img src="https://img.shields.io/badge/Website-2E8B57?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
     </a>
 </p>
 
